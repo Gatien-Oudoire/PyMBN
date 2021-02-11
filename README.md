@@ -17,9 +17,9 @@ Pour avoir sa moyenne:
 Soit Mozilla Firefox, soit Chrome (il se peut que les dérivés de Chromium marchent)
 Avoir les drivers qui permettent de controler le navigateur:
 
-Firefox: https://chromedriver.chromium.org/
+Chrome: https://chromedriver.chromium.org/
 
-Chrome: https://github.com/mozilla/geckodriver/releases
+Firefox: https://github.com/mozilla/geckodriver/releases
 
 Python3 avec selenium:
 > pip3 install selenium
