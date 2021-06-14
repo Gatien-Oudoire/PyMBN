@@ -22,9 +22,8 @@ password = ''
 
 argument = False
 
-if len(argv) > 1:
-    if argv[1] == 'm':
-        argument = True
+if len(argv) > 1 and argv[1] == 'm':
+    argument = True
 
 attendre = WebDriverWait(navigateur, 10)
 
